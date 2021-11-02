@@ -1,3 +1,3 @@
 # Calculator
 
-One of my first labs done during my Software Engineering bootcamp. Purposefully left as I completed it to show growth of skill over the months in the program and after.
+Copied over from [general assembly enterprise Github](https://git.generalassemb.ly/asher8346) Github to my [personal Github](https://github.com/asher-schulman) Purposefully copy pasted as I completed the app (I did this 1 month into my 6-month Software Engineering Immersive Bootcamp) and used Git to make bug fixes and implement new features. 

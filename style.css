@@ -1,0 +1,63 @@
+body {
+    background-color: #606060;
+}
+
+table {
+    background-color: #202020;
+    border: 3px solid blanchedalmond;
+    border-radius: 10px;
+    margin: auto;
+    height: 600px;
+    width: 450px;
+    text-align: center;
+}
+
+#display {
+    background-color: white;
+    border-radius: 8px;
+    height: 80px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    text-align: right;
+    float: left;
+    font-size: 28pt;
+}
+
+.button {
+    border-radius: 6px;
+    height: 85px;
+    width: 85px;
+    font-size: 28pt;
+}
+
+#equal {
+    border-radius: 6px;
+    height: 85px;
+    width: 85px;
+    font-size: 28pt;
+}
+
+#clear {
+    border-radius: 6px;
+    height: 85px;
+    width: 85px;
+    font-size: 28pt;
+}
+
+.button:hover {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 40pt;
+}
+
+.operator {
+    background-color: blanchedalmond;
+}
+
+#C {
+    background-color: lightcoral;
+}
+
+#\= {
+    background-color: blanchedalmond;
+}
